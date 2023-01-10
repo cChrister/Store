@@ -16,7 +16,8 @@ Here you can find the MOD tutorial and `the archive of mine`
   D:\My Games\Steam\steamapps\common\Hollow Knight  
   C:\Users\Christer\AppData\LocalLow\Team Cherry\Hollow Knight  
 - ctrl+f 在资源下载链接中筛选信息，建议安装以下MOD：  
-    > Satchel(必须安装)  
+    > API  
+    Satchel(必须安装)  
     EnemyHPBar  
     CustomKnight  
     永生相随(皮肤MOD，其他皮肤自己去网上找)  
