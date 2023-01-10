@@ -15,10 +15,11 @@ Here you can find the MOD tutorial and `the archive of mine`
   > // 第一条路径常用于MOD组装，第二条常用于碎档恢复查看记录等  
   D:\My Games\Steam\steamapps\common\Hollow Knight  
   C:\Users\Christer\AppData\LocalLow\Team Cherry\Hollow Knight  
-- ctrl+f 在资源下载链接中筛选信息，建议安装  
-    Satchel(必须安装)  
+- ctrl+f 在资源下载链接中筛选信息，建议安装一下MOD  
+    > Satchel(必须安装)  
     EnemyHPBar  
     CustomKnight  
     永生相随(皮肤MOD，其他皮肤自己去网上找)  
+    
 ## The archive of mine  
 As you see here is some documents, but also a tool to fix ”钢魂碎档“  
