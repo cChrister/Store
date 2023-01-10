@@ -20,7 +20,8 @@ Here you can find the MOD tutorial and `the archive of mine`
     Satchel(必须安装)  
     EnemyHPBar  
     CustomKnight  
-    永生相随(皮肤MOD，其他皮肤自己去网上找)  
+    永生相随(皮肤MOD，资源自己去网上找)  
+    死亡细胞  
     
 ## The archive of mine  
 As you see here is some documents, but also a tool to fix ”钢魂碎档“  
